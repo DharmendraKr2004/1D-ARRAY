@@ -1,2 +1,2 @@
-# hello_test
-setting up git
+# 1D ARRAY
+
